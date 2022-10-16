@@ -1,4 +1,4 @@
-# Carrara_Zinno_NPS
+# Project for the course in Nonparametric Statistics
 Repository containing the R scripts written for the project of the course of Nonparametric Statistics at Polimi
 
 Here I provide a brief explanation of the content of the scripts:
